@@ -173,7 +173,7 @@ nav div ul li a {
 }
 .resume-summary-heading{
     text-align: center;
-    margin-bottom: 80px;
+    margin-bottom: 50px;
 }
 .education-experience-box-container{
     display: flex;
@@ -189,4 +189,9 @@ nav div ul li a {
 }
 .master-cse-sub-title{
     margin-bottom: 15px;
+}
+.resume-button-container{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
 }
